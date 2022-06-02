@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Module2 CSS basics
+# goit-markup-hw-01
+GoIT FSon58 Homework#1 Danylo_Molochaiev
