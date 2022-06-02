@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-GoIT FSon58 Homework#1 Danylo_Molochaiev
+# goit-markup-hw-02
+GoIT FSon58 Homework#2 Danylo_Molochaiev
